@@ -1,0 +1,14 @@
+p {
+  word-wrap: break-word;
+}
+
+h3 {
+  color: white;
+}
+
+.container-lg {
+  background-color: #233d4d;
+  border-style: solid;
+  padding: 2rem;
+  margin-bottom: 20px;
+}
